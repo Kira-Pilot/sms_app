@@ -1,0 +1,10 @@
+development:
+  #from: <%= ENV["FROM"] %>
+  #sid: <%= ENV["SID"] %>
+  #token: <%= ENV["TOKEN"] %>
+
+  from: '+12012318648'
+  sid: 'ACdeafae90af6049f528ebd948f5d56b3b'
+  token: '3e5d82bfcc29584a2dfd55bb1202792a'
+
+
