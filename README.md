@@ -7,7 +7,7 @@ This application is unstyled, and in test. More detail on continuing work can be
 Click [here](https://www.twilio.com/api) to learn more about Twilio's API.
 
 ##Motivation
-This project originally constituted the technical pre-work necessary to enroll in Startup Institute's Web Development course. The motivation behind this work is to get a better understanding of Ruby on Rails architecture, and to provide an assessment of a student's technical ability to:
+This project originally constituted the technical pre-work necessary to enroll in Startup Institute's Web Development course. The motivation behind this work was to get a better understanding of Ruby on Rails architecture, and to provide an assessment of a student's technical ability to:
 * effectively use a RESTful API
 * build a user-focused web application
 * host a web app on the internet
@@ -31,13 +31,13 @@ This was my very first app, so before getting down to it, I sketched out the fol
 * Does the submitted phone number receive a text message?
 
 ##Next Steps
-I never ended up submitting this project to SI for evaluation, as I was admitted into the track and began class before starting; however, I did take some time during the beginning of the course to get caught up on the pre-work.As a result, this application is not hosted on Heroku. 
+I never ended up submitting this project to SI for evaluation, as I was admitted into the track and began class before starting; however, I did take some time during the beginning of the course to get caught up on the pre-work. As a result, this application is not hosted on Heroku. 
 
 Next steps (if I ever get around to them) will include:
 * Styling the application
 * Hosting the application on Heroku
 * Writing some unit tests
-* Add some simple error-checking
+* Adding some simple error-checking
 
 ##Contributors
 This application was written by [Kira Pilot](https://www.linkedin.com/in/kira-pilot-30b4a173).
